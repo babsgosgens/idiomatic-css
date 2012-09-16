@@ -384,6 +384,9 @@ large code bases.
 * If using a preprocessor, abstract common code into variables for color,
   typography, etc.
 
+### Additional Resources
+Include the part under 'Organization' from this resource: http://www.louddog.com/2008/create-maintainable-code-with-a-css-styleguide/
+
 
 <a name="build-and-deployment"></a>
 ## 8. Build and deployment
